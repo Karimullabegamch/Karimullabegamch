@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring MVC**
 
-- 💬 Ask me about **C,JAVA,PYTHON,ORACLE,HTML,CSS,JS.**
+- 💬 Ask me about **C,JAVA,PYTHON,ORACLE,HTML,CSS,JS,MAVEN,JUNIT.**
 
 - 📫 How to reach me **karimullabegam7893@gmail.com**
 
